@@ -220,7 +220,7 @@ first div in the grid  and place it in the grid. */
   .container div:first-child {
     grid-column: 1 / span 5;
     background-repeat: no-repeat;
-    background-image: url("/images/header.jpg");
+    background-image: url("images/header.jpg");
     background-size: cover;
   }
   .about, .about-image {
