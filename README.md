@@ -1,2 +1,1 @@
-# hw4-2022
-SI339 HW4: Grid
+# homework4-2022
